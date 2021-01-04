@@ -1,0 +1,23 @@
+/* Borde primera tabla */
+table.uno{
+    border: red 1px solid;
+}
+/* Borde segunda tabla */
+table.dos{
+    border: red 1px solid;
+}
+/* Borde segunda tabla A */
+td.borde{
+    border: blue 1px solid;
+}
+/* Borde tercera tabla */
+table.tres{
+    border: green 1px solid;
+    
+}
+td.verde{
+    border: green 1px solid;
+    width: 120px;
+    height: 10px;
+    text-align: center;
+}
